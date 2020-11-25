@@ -1,4 +1,5 @@
 ## Hello Jane 👋
+[About Me](https://www.notion.so/Jane-Yi-855a3119a6ec40cb9cc7dbc1c82cc20b)
 
 <!--
 **HelloJaneJane/HelloJaneJane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
