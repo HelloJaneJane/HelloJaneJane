@@ -1,6 +1,8 @@
 ## Hello Jane 👋
 ### [About Me](https://www.notion.so/Jane-Yi-855a3119a6ec40cb9cc7dbc1c82cc20b)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=janeyi)](https://solved.ac/janeyi/)
+
 <!--
 **HelloJaneJane/HelloJaneJane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
