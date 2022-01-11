@@ -1,5 +1,6 @@
 ## Hello Jane 👋
-### [✏️ About Me](https://www.notion.so/Jane-Yi-855a3119a6ec40cb9cc7dbc1c82cc20b)
+
+[✏️ About Me](https://janeyi.notion.site/Jane-Yi-855a3119a6ec40cb9cc7dbc1c82cc20b)
 
 <a href="https://velog.io/@hellojane">
     <img 
