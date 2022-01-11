@@ -1,6 +1,10 @@
 ## Hello Jane 👋
 
-[✏️ About Me](https://janeyi.notion.site/Jane-Yi-855a3119a6ec40cb9cc7dbc1c82cc20b)
+<a href="https://janeyi.notion.site/Jane-Yi-855a3119a6ec40cb9cc7dbc1c82cc20b">
+    <img 
+        src="http://img.shields.io/badge/-my portfolio-FF69B4?style=flat&link=https://janeyi.notion.site/Jane-Yi-855a3119a6ec40cb9cc7dbc1c82cc20b"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <a href="https://velog.io/@hellojane">
     <img 
